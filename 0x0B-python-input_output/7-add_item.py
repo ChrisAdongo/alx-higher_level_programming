@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Program to save strings from command line arguments to a file called "add_item.json".
 The file contains a JSON serialized list of all strings entered as arguments to the program.
