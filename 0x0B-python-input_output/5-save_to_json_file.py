@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 Contains the save_to_json_file function
 """
@@ -31,4 +32,5 @@ if __name__ == "__main__":
         save_to_json_file(parsed_obj, file_to_save)
     except Exception as e:
         print(f"An error occurred: {e}")
+
 
