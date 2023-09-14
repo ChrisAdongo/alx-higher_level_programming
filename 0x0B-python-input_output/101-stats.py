@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 101-stats.py is a program that reads IP logs from stdin and
 prints metrics every ten lines or until EOF or Ctrl-C.
